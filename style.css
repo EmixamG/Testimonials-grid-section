@@ -15,7 +15,7 @@ body {
 
 .testimonials-wrapper {
     width: 70%;
-    height: 70%;
+    height: 80vh;
     display: grid;
     justify-content: center;
     grid-template-columns: repeat(4, 25%);
