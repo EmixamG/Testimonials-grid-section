@@ -18,6 +18,7 @@ body {
     height: 70%;
     display: grid;
     justify-content: center;
+    align-items: center;
     grid-template-columns: repeat(4, 25%);
     grid-template-rows: repeat(2, 50%);
     gap: 30px;
